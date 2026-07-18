@@ -12,7 +12,7 @@ using namespace std;
 //         s++;
 //         e--;
 //     }
-
+// cout<<"REVERSE ARRAY";
 //     for (int i = 0; i < 5; i++) {
 //         cout << arr[i] << " ";
 //     }
